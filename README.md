@@ -113,7 +113,7 @@ The status and installation commands returned a permission error involving `C:\U
 - **Troubleshooting:** Error messages and repeatable diagnostic steps help narrow down problems without assuming an unverified cause.
 - **AI-assisted development:** Commands and generated changes should be reviewed, understood, and tested before being trusted.
 
-## 6. Major Problems Encountered
+## 6. Problems Encountered
 
 ### PowerShell Virtual Environment Activation
 
